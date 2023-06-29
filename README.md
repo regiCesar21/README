@@ -22,7 +22,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
+[![regiCesar21 GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/regiCesar21/github-readme-stats)
 
 - Thanks for visiting.
 
